@@ -36,7 +36,7 @@ Installation
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/codelikeamachine/Finance-Tracker.git
 
 Navigate to the project directory:
 bash
